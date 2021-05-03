@@ -1,0 +1,9 @@
+/*ADDING CSS*/
+#heading-title {
+    margin-top: 50px !important;
+  }
+
+  #chicken-container {
+      background: gray;
+      padding: 20px;
+  } 
